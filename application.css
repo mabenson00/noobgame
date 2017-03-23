@@ -8,3 +8,19 @@ canvas {
   display: block;
   margin: 0 auto;
 }
+
+.time {
+  text-align: center;
+  font-size:30px;
+}
+
+.high {
+  text-align: center;
+  font-size:30px;
+}
+
+.score {
+  text-align: center;
+  font-size:30px;
+}
+
