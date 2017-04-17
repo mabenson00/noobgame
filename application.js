@@ -184,6 +184,7 @@ function keyDownHandler(e) {
         downPressed = true;
     }
     else if(e.keyCode == 32) {
+      $('#overlay').hide();
       run();
       timer()
     }

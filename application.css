@@ -23,4 +23,18 @@ canvas {
   text-align: center;
   font-size:30px;
 }
+#overlay {
+  width:300px;
+  height:300px;
+  position:absolute;
+  top: 0px;
+  left: 50%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-left:-150px;
+}
 
+#overlay h2 {
+  padding-top: 20px;
+}
